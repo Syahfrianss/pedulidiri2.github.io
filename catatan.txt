@@ -1,0 +1,5 @@
+
+12345|Siho|2022-03-07|00:08|Gajayana|35
+12345|Siho|2022-03-05|01:22|SMP BSS|36
+09876|Syahfrian|2022-03-09|21:28|Preston|34
+22083000128|Syahfrian|2022-10-04|00:31|Malang Town Square|12

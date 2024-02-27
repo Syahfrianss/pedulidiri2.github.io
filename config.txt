@@ -1,0 +1,6 @@
+NIK|NAMA LENGKAP
+12345|Siho
+09876|Syahfrian
+45678|Gaza
+22083000128|Syahfrian
+22083|syahfrian
